@@ -85,7 +85,7 @@ The platform integrates **machine learning (RandomForest)** and **deep learning 
 
 
 ---------------------------------------------------------------------------------------------------
-** FAQs & Troubleshooting**
+**FAQs & Troubleshooting**
 
  Q: I uploaded a CSV but got KeyError: 'Returns'. ?
  
@@ -102,6 +102,8 @@ The platform integrates **machine learning (RandomForest)** and **deep learning 
  A: Train the model first, then run forecast. Check date range includes enough historical data.
 
  ------------------------------------------------------------------------------------------------------------
+ **Visualizations**
+ 
  <img width="1934" height="878" alt="image" src="https://github.com/user-attachments/assets/21f8a30d-14ba-4d53-8065-55a26853a6b8" />
 
 <img width="1026" height="784" alt="image" src="https://github.com/user-attachments/assets/ca1a7369-f128-462a-bb26-0613a9bc9562" />
