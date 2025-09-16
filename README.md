@@ -95,3 +95,13 @@ The platform integrates **machine learning (RandomForest)** and **deep learning 
 
  Q: Forecast chart is empty.
  A: Train the model first, then run forecast. Check date range includes enough historical data.
+
+ ------------------------------------------------------------------------------------------------------------
+ <img width="1934" height="878" alt="image" src="https://github.com/user-attachments/assets/21f8a30d-14ba-4d53-8065-55a26853a6b8" />
+
+<img width="1026" height="784" alt="image" src="https://github.com/user-attachments/assets/ca1a7369-f128-462a-bb26-0613a9bc9562" />
+
+<img width="1460" height="702" alt="image" src="https://github.com/user-attachments/assets/fb1414ba-89d7-4795-a553-4d4d77c8248e" />
+
+<img width="1462" height="554" alt="image" src="https://github.com/user-attachments/assets/ae6b0fe4-7599-426e-9057-4e96c0533035" />
+
