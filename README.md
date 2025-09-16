@@ -82,3 +82,16 @@ The platform integrates **machine learning (RandomForest)** and **deep learning 
 -Risk metrics JSON.
 
 -Risk histogram with VaR and CVaR highlighted.
+
+
+---------------------------------------------------------------------------------------------------
+**🛠 FAQs & Troubleshooting**
+
+ Q: I uploaded a CSV but got KeyError: 'Returns'. ?
+ A: Make sure your CSV has at least these columns: Date, Open, High, Low, Close, Volume. The platform will calculate Returns automatically.
+
+ Q: The LSTM throws shape errors. ?
+ A: Ensure enough data points (> 200) and correct columns. LSTM needs sequential data to train properly.
+
+ Q: Forecast chart is empty.
+ A: Train the model first, then run forecast. Check date range includes enough historical data.
